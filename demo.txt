@@ -1,4 +1,4 @@
 第一你编辑(git add,git commit)  what the fuck aaaaeeee
 第二次编辑(git stautus)查看当前远程仓库的状态
 git diff --- 后面输入指定的文件 查看上次更改的内容信息,xiugaiwenjian neirong 
-
+gongzuoqu 
